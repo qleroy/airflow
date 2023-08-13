@@ -714,7 +714,7 @@ if PACKAGE_NAME in ("apache-airflow-providers-google", "apache-airflow"):
 viewcode_follow_imported_members = True
 
 # -- Options for sphinx-autoapi ------------------------------------------------
-# See: https://sphinx-autoapi.readthedocs.io/en/latest/config.html
+# See: https://sphinx-autoapi.readthedocs.io/en/latest/reference/config.html
 
 # Paths (relative or absolute) to the source code that you wish to generate
 # your API documentation from.
